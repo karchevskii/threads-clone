@@ -1,3 +1,3 @@
-#Threads clone (training project)
+# Threads clone (training project)
 
 
